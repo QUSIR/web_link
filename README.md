@@ -13,3 +13,7 @@
 [嵌入式网站](./嵌入式网站.md)
 
 [网站记录](./网站记录.md)
+
+[国外手机ROM网站](./国外手机ROM.md)
+
+[https://www.codeaurora.org/](https://www.codeaurora.org/)
