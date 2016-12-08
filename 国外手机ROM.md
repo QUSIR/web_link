@@ -18,3 +18,9 @@
 [PAC-ROM系统定制](http://www.pac-rom.com/)
 
 [xda-developers](http://forum.xda-developers.com/)
+
+[https://www.codeaurora.org/](https://www.codeaurora.org/)
+
+[supersu](http://www.supersu.com)
+
+[Xposed](http://repo.xposed.info/)
