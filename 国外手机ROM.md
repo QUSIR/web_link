@@ -16,3 +16,5 @@
 [CM android系统定制](https://www.cyanogenmod.org/)
 
 [PAC-ROM系统定制](http://www.pac-rom.com/)
+
+[xda-developers](http://forum.xda-developers.com/)
